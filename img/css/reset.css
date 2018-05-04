@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+li{list-style: none;text-align: -webkit-match-parent;}
+img{border: 0;}
+a:hover{filter: brightness(1.2);}
+a{transition: filter .2s linear;}
+tbody{display: table-row-group;vertical-align: middle;border-color: inherit;}
+tr{display: table-row;vertical-align: inherit;border-color: inherit;}
